@@ -12,7 +12,7 @@ To build and run the project:<br>
 	$ gazebo  myWorld --verbose<br>
 
 You should see:<br>
-<img src="GazeboWorld-1.png"
+<img src="GazeboWorld-2.png"
 	style="float: left; margin-right: 10px;" />
 	
 Project Rubric:
