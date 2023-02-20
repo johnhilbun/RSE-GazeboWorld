@@ -5,6 +5,7 @@ This project uses Gazebo to create a building and a model. The intent is to get 
 
 To build and run the project:<br>
 	$ cd /home/workspace/world/build<br>
+	$ cmake ..<br>
 	$ make<br>
 	$ cd ../world<br>
 	$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/build
