@@ -5,11 +5,11 @@ This project uses Gazebo to create a building and a model. The intent is to get 
 
 Project Rubric:
 
-Basic Requirements - Project contains:
-	- a **world** directory containing a Gazebo world file
-	- a **model** directory containing a structure and an object model file
-	- a **script** directory containing the C++ plugin code
-	- a **CMakeLists.txt** file
+Basic Requirements - Project contains:<br>
+	- a **world** directory containing a Gazebo world file<br>
+	- a **model** directory containing a structure and an object model file<br>
+	- a **script** directory containing the C++ plugin code<br>
+	- a **CMakeLists.txt** file<br>
 
 	Building
 		Project includes:
