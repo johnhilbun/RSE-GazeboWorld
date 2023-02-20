@@ -8,7 +8,7 @@ To build and run the project:<br>
 	$ cmake ..<br>
 	$ make<br>
 	$ cd ../world<br>
-	$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/build
+	$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/build<br>
 	$ gazebo  myWorld --verbose<br>
 
 You should see:<br>
