@@ -3,8 +3,11 @@ Udacity Robotics Software Engineer Nanodegree - Project 1
 
 This project uses Gazebo to create a building and a model. The intent is to get familiar with the Udacity workspace and with Gazeo.
 
-To run the project:<br>
-	$ cd /home/workspace/world<br>
+To build and run the project:<br>
+	$ cd /home/workspace/world/build<br>
+	$ make<br>
+	$ cd ../world<br>
+	$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/build
 	$ gazebo  myWorld --verbose<br>
 
 You should see:<br>
